@@ -22,5 +22,5 @@ function deleteToSQL(stmt) {
 }
 
 export {
-  deleteToSQL,
+  // deleteToSQL,
 }
